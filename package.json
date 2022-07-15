@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "express": "github:expressjs/express#semver:4.17.0"
+    "@types/react-datepicker": "4.4.2",
+    "express": "github:expressjs/express#semver:4.17.0",
+    "react-datepicker": "4.8.0"
   }
 }
